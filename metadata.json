@@ -1,0 +1,6 @@
+{
+  "name": "GauDhara Dairy Mastitis Screening & Health Suite",
+  "description": "Veterinary dairy-health and early mastitis screening platform featuring Gemini 3.8 Flash AI clinical assistant and multilingual diagnostic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
